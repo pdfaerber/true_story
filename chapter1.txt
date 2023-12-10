@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The quick brown fox jumped over the lazy dog, and rocketed into space with the velocity of a rubber chicken.
 =======
 The quick brown fox jumped over the lazy dog, and rocketed into space with the velocity of a rubber chicken. Then the cow jumped over the moon when it saw the holes in the cheeze where the mouse had taken huge bites over and over.
+=======
+The quick brown fox jumped over the lazy dog, and rocketed into space with the velocity of a rubber chicken. Then the cow jumped over the moon when it saw the holes in the cheeze where the mouse had taken huge bites over and over. Ugh... I need a glass of milk!
+>>>>>>> outer-space
 
 >>>>>>> outer-space
